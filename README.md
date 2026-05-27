@@ -55,7 +55,6 @@ bp-font-zoom/
 ├── target/
 │   ├── classes/                  # 编译产物（.class）
 │   └── bFontZoom-1.0.0.jar      # 最终插件 JAR
-├── MANIFEST.MF                  # JAR 清单（指定扩展入口类）
 ├── build.ps1                    # 一键构建脚本
 ├── pom.xml                      # Maven 配置（备用构建方案）
 └── .gitignore
