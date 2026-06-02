@@ -106,6 +106,3 @@ Toolkit.getDefaultToolkit().addAWTEventListener(
 
 使用 `java.util.prefs.Preferences` 将缩放级别写入 Windows 注册表（`HKCU\Software\JavaSoft\Prefs\exp\fontzoom`），下次启动 Burp 时自动恢复。
 
-## 许可证
-
-MIT
